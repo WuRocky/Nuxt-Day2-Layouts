@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: 首頁
+    <h1>Page: 首頁</h1>
   </div>
 </template>
 
